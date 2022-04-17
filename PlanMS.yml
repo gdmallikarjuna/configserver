@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost/infytel_PlanMS
+    url: jdbc:mysql://localhost/infytel_Plan
   jpa:
     hibernate:
       ddl-auto: update
